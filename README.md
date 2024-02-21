@@ -1,6 +1,6 @@
-# revue
+# Thats The News
 
-A reddit clone built with Vue.js and Flask
+A News app that provides topic based feeds comprising of artice summaries with their respective headlines and links, based on reddit clone built with Vue.js and Flask
 
 ![Screenshot](https://raw.githubusercontent.com/Lanseuo/revue/master/screenshot.png)
 
